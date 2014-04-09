@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "stench"
   gem.homepage = "http://github.com/patrickhno/stench"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Windows bindings for opine}
+  gem.description = %Q{Windows bindings for opine}
   gem.email = "patrick.hanevold@gmail.com"
   gem.authors = ["Patrick Hanevold"]
   # dependencies defined in Gemfile
